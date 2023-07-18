@@ -1,0 +1,564 @@
+@media screen and (min-width: 1400px) and (max-width: 1599px) {
+    .welcome-right img {
+    max-width: 500px;
+    top: 60%;
+}
+}
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
+ 
+.welcome-left p br {
+    display: none;
+}
+
+.welcome-left ul li {
+    max-width: 270px;
+    margin-right: 15px;
+}
+
+.welcome-left ul li img {
+    max-width: 40px;
+    margin-right: 12px;
+}
+
+.welcome-right img {
+    max-width: 450px;
+    top: 60%;
+}
+
+.why-right {
+    padding: 0px 0 0 50px;
+}
+
+.footer-item3 table tr td {
+    margin: 0 25px 12px 0;
+}
+
+.social-icon p {
+  margin-right: 18px;
+}
+
+.social-icon ul li {
+  margin-right: 8px;
+}
+
+
+} 
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+
+.search-item {
+    margin-right: 25px;
+}
+
+.search-item input {
+    width: 100%;
+}
+
+.header-area .navbar-expand-lg .navbar-nav .nav-link {
+    padding: 15px 8px;
+}
+ 
+.weare-item h3 {
+    width: 250px;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.weare-item h2 {
+    font-size: 16px;
+}
+
+.weare-item span {
+    margin-bottom: 25px;
+}
+
+.weare-item p {
+    font-size: 12px;
+    line-height: 25px;
+}
+
+.welcome-left p {
+    max-width: 365px;
+}
+
+.welcome-left p br {
+    display: none;
+}
+
+.welcome-left ul li {
+    max-width: 210px;
+    min-height: 80px;
+    padding: 0 0 0 10px;
+    margin-right: 10px;
+}
+
+.welcome-left ul li img {
+    max-width: 35px;
+    margin-right: 10px;
+}
+
+.welcome-leftbtn h5 {
+    font-size: 13px;
+    margin-bottom: 7px;
+}
+
+.welcome-leftbtn h4 {
+    font-size: 15px;
+}
+
+.welcome-right img {
+    max-width: 500px;
+    top: 60%;
+}
+
+.why-right {
+    padding: 0px 0 0 50px;
+}
+
+.our-right h3 {
+    font-size: 14px;
+}
+
+.our-right p br {
+    display: none;
+}
+
+.slider-cnt2 p br {
+    display: none;
+}
+
+.footer-item p, .footer-item2 a, .footer-item3 table tr td a {
+  font-size: 13px;
+}
+
+.footer-item3 table tr td {
+    margin: 0 8px 12px 0;
+}
+
+.social-icon {
+  margin-bottom: 30px;
+}
+
+.social-icon p {
+  margin-bottom: 10px;
+} 
+
+} 
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+.header-area .navbar {
+  padding: 5px 0;
+}
+
+.container, .container-fluid, .container-xxl, .container-xl, .container-lg, .container-md, .container-sm {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.slider-area .owl-theme .owl-dots {
+    position: absolute;
+    right: 40px;
+    bottom: 20px;
+}
+
+.slider-area .owl-theme .owl-dots .owl-dot span {
+  width: 16px;
+  height: 16px;
+}
+ 
+.stress-item {
+    margin-left: 0; 
+}
+
+.weare-item {
+    padding: 0 0 50px 0;
+}
+
+.weare-item h3 {
+    width: 260px;
+    font-size: 19px;
+}
+
+.weare-item h2 {
+    font-size: 17px;
+}
+
+.welcome-area {
+    padding: 60px 0 20px 0;
+    position: relative;
+}
+
+.welcome-upper h2 {
+    font-size: 22px;
+}
+
+.welcome-left h3 {
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+
+.welcome-left p br {
+    display: none;
+}
+
+.welcome-left ul {
+    justify-content: center;
+}
+
+.welcome-left ul li img {
+    max-width: 45px;
+}
+
+.welcome-leftbtn h4 {
+    font-size: 17px;
+}
+
+.welcome-right img {
+    max-width: 100%;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 20px;
+}
+
+.why-left img {
+    max-width: 100%;
+    width: 100%;
+}
+
+.why-right {
+    padding: 25px 0 0 0px;
+}
+
+.our-services {
+    padding: 50px 0 20px 0;
+}
+
+.our-upper h2 {
+    font-size: 22px;
+}
+
+.our-upper p {
+    text-align: center;
+}
+
+.our-upper p br {
+    display: none;
+}
+
+.our-left p {
+    text-align: center;
+}
+
+.our-left p br {
+    display: none;
+}
+
+.our-left {
+    text-align: center;
+}
+
+.our-left a {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.our-right {
+    padding: 15px 10px 30px 10px;
+    margin-bottom: 20px;
+}
+
+.what-area {
+    padding: 50px 0;
+}
+
+.what-upper h2 {
+    font-size: 22px;
+}
+
+.what-upper p br {
+    display: none;
+}
+
+.slider-cnt2 h2 {
+    font-size: 19px;
+}
+
+.slider-item2 .owl-theme .owl-dots {
+  margin-top: 0px;
+}
+
+.slider-item2 .owl-theme .owl-dots .owl-dot span {
+  width: 12px;
+  height: 12px;
+}
+
+.footer-item,
+.footer-item2 {
+    margin-bottom: 50px;
+}
+ 
+} 
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (max-width: 767px) {	
+ 
+.header-area .navbar {
+  padding: 5px 0;
+} 
+
+.slider-area .owl-theme .owl-dots {
+    position: absolute;
+    right: 20px;
+    bottom: 25px; 
+}
+
+.slider-area .owl-theme .owl-dots .owl-dot span {
+  width: 14px;
+  height: 14px;
+} 
+
+.stress-item {
+    max-width: 100%;
+    margin-left: 0;
+} 
+
+.stress-item img {
+    max-width: 100px;
+    margin-bottom: 15px;
+}
+
+.stress-item ul {
+    margin-bottom: 20px;
+}
+
+.stress-item ul li {
+    max-width: 120px;
+}
+
+.stress-item ul li a {
+    font-size: 16px;
+    padding: 10px 36px;
+}
+
+.stress-item ul li:last-child a {
+    padding: 10px 6px;
+}
+
+.stress-item h3 {
+    font-size: 20px;
+}
+
+.stress-item p {
+    font-size: 13px;
+    line-height: 20px;    
+}
+
+.stress-item .stress-btn a { 
+    padding: 8px 20px;
+}
+
+.weare-item {
+    padding: 0 0 50px 0;
+}
+
+.weare-item h3 {
+    width: 250px;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.weare-item h2 {
+    font-size: 16px;
+}
+
+.weare-item span {
+    margin-bottom: 25px;
+}
+
+.weare-item p {
+    font-size: 13px;
+    line-height: 25px;
+}
+
+.welcome-area {
+    padding: 60px 0 20px 0;
+    position: relative;
+}
+
+.welcome-upper h2 {
+    font-size: 20px;
+}
+
+.welcome-left h3 {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.welcome-left p br {
+    display: none;
+}
+
+.welcome-left ul {
+    justify-content: center;
+}
+
+.welcome-left ul li img {
+    max-width: 45px;
+}
+
+.welcome-leftbtn h4 {
+    font-size: 16px;
+}
+
+.welcome-right img {
+    max-width: 100%;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 20px;
+}
+
+.why-left img {
+    max-width: 100%;
+    width: 100%;
+}
+
+.why-right {
+    padding: 25px 0 0 0px;
+}
+
+.why-right h3 {
+    font-size: 22px;
+}
+
+.addui-Accordion .addui-Accordion-header {
+    padding: 10px 30px 10px 15px;
+}
+
+.accourding div div h2 {
+    font-size: 15px;
+}
+
+.our-services {
+    padding: 50px 0 20px 0;
+}
+
+.our-upper h2 {
+    font-size: 20px;
+}
+
+.our-upper p {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.our-upper p br {
+    display: none;
+}
+
+.our-left h3 {
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.our-left p {
+    text-align: center;
+}
+
+.our-left p br {
+    display: none;
+}
+
+.our-left {
+    text-align: center;
+}
+
+.our-left a {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.our-right {
+    padding: 15px 10px 30px 10px;
+    margin-bottom: 20px;
+}
+
+.counter-item {
+    margin-bottom: 80px;
+}
+
+.what-area {
+    padding: 50px 0;
+}
+
+.what-upper h2 {
+    font-size: 20px;
+}
+
+.what-upper p br {
+    display: none;
+}
+
+.slider-cnt2 h2 {
+    font-size: 18px;
+}
+
+.slider-cnt2 p br {
+    display: none;
+}
+
+.slider-item2 .owl-theme .owl-dots {
+  margin-top: 0px;
+}
+
+.slider-item2 .owl-theme .owl-dots .owl-dot span {
+  width: 12px;
+  height: 12px;
+}
+
+.footer-item h3,
+.footer-item2 h3,
+.footer-item3 h3,
+.footer-item4 h3 {
+    margin-bottom: 30px;
+}
+
+.footer-item2 {
+    margin: 50px 0;
+}
+
+.footer-item3 {
+    margin-bottom: 50px;
+}
+
+.footer-item2 {
+  text-align: left;
+}
+
+
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 576px) {
+ 
+
+}
